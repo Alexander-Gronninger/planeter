@@ -11,7 +11,7 @@
 ## Jupiter – Kim
 
 ## Saturn – Hari
--The second largest planet in the solar system, Saturn is a "gas giant" composed primarily of hydrogen and helium. But it's best known for the bright, beautiful rings that circle its equator. The rings are made up of countless particles of ice and rock that each orbit Saturn independently.
+Saturn er den sjette planet fra solen i vores solsystem. Det er den næststørste planet i solsystemet efter Jupiter. Saturn kendes på sine markante ringe, som består af utallige små is- og stenpartikler.
 
 ## Uranus
 
