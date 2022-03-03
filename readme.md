@@ -23,10 +23,13 @@ Det høje energiniveau i de kemiske processer i begyndelsen af Jordens eksistens
 
 ## Mars – Alexander
 
-Mars is the fourth planet from the Sun and the second-smallest planet in the Solar System, being larger than only Mercury. In English, Mars carries the name of the Roman god of war and is often referred to as the "Red Planet".[17][18] The latter refers to the effect of the iron oxide prevalent on Mars's surface, which gives it a striking reddish appearance in the sky.[19] Mars is a terrestrial planet with a thin atmosphere, with surface features such as impact craters, valleys, dunes, and polar ice caps.
+Mars er den fjerde planet i Solsystemet talt fra Solen, og naboplanet til vores egen planet Jorden. Som Jorden har Mars en atmosfære, om end denne er ganske tynd og næsten udelukkende består af kuldioxid. Mars kaldes også "den røde planet" på grund af sin karakteristiske farve.
+
+huehuehue
 
 ## Jupiter – Kim
-    Jupiter er den største planet.
+Jupiter er den største planet.
+
 ## Saturn – Hari
 Saturn er den sjette planet fra solen i vores solsystem. Det er den næststørste planet i solsystemet efter Jupiter. Saturn kendes på sine markante ringe, som består af utallige små is- og stenpartikler.
 
