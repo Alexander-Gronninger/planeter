@@ -10,6 +10,8 @@ Antal måner: 0
 Merkur er en gold og øde stenørken med masser af kratere. På Merkur kan temperaturen svinge mere end 600 oC mellem nat og dag. Termometret kan nå helt op på skoldhede +430 oC om dagen og ned til iskolde -180 oC om natten. Og nætterne er utroligt lange, fordi Merkur roterer så langsomt. 
 ## Venus – Celine
 
+Venus er planet nr. to i vores solsystem, talt fra Solen. Den gennemsnitlige afstand fra Solen er ca. 108 millioner km og planeten har en diameter på ca. 12100 km. Venus er den tredjemindste planet i solsystemet.
+
 ## Jorden – Oliver
 Jorden er den tredje planet i solsystemet regnet fra Solen og har den største diameter, masse og tæthed af jordplaneterne. Jorden benævnes også Verden, Jordkloden og Tellus efter en romersk gudinde eller Terra efter dens latinske betegnelse.
 
