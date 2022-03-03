@@ -18,6 +18,8 @@ There are investigations assessing the past habitability of Mars, as well as the
 
 Mars can easily be seen from Earth with the naked eye, as can its reddish coloring. Its apparent magnitude reaches −2.94, which is surpassed only by Venus, the Moon and the Sun.[12] Optical ground-based telescopes are typically limited to resolving features about 300 kilometres (190 mi) across when Earth and Mars are closest because of Earth's atmosphere.[29]
 
+ignore
+
 ## Jupiter – Kim
 
 ## Saturn – Hari
